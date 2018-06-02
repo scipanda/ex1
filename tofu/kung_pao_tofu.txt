@@ -3,4 +3,3 @@ tofu
 peanuts
 kung
 pao
-bok choy
